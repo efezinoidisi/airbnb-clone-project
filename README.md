@@ -61,3 +61,103 @@ Identifying design properties of a mockup design is important because it helps m
 - Font Family : Quicksand, Souce Sans Pro, SF Pro Display
 - Font Weights: 400, 500, 600, 700
 - Font Sizes: 12px, 13px, 14px, 16px, 17px, 19px, 20px, 22px, 23px, 24px, 25px, 27px, 31px, 94px
+
+## Project Roles and Responsibilities
+
+In a software development project, clearly defined roles and responsibilities are crucial for success. Here’s a breakdown of the typical roles within a development team and their key responsibilities:
+
+#### Project Manager (PM)
+
+The Project Manager is the leader of the project. They are responsible for planning, executing, and closing projects.
+
+<strong>Key Responsibilities:</strong>
+
+- Oversee project progress and ensure milestones are met.
+- Facilitate communication within the team.
+- Manage project timelines, budget, and resources.
+- Identify and mitigate risks.
+- Serve as the primary point of contact for stakeholders.
+
+#### Frontend Developers
+
+Frontend developers focus on the client-side of the application, ensuring a smooth and engaging user experience.
+
+<strong>Key Responsibilities:</strong>
+
+- Implement UI/UX designs using HTML, CSS, and JavaScript.
+- Develop React components and integrate them with backend APIs.
+- Ensure the application is responsive and performs well on various devices.
+- Collaborate with designers to create visually appealing interfaces.
+- Optimize the application for maximum speed and scalability.
+
+#### Backend Developers
+
+Backend developers work on the server-side of the application, managing data and ensuring seamless communication between the server and the frontend.
+
+<strong>Key Responsibilities</strong>:
+
+- Develop and maintain server-side logic using languages such as Python, Node.js, or Java.
+- Design and manage databases.
+- Create and maintain APIs for frontend integration.
+- Implement security and data protection measures.
+- Optimize server performance and scalability.
+
+#### Designers
+
+Designers are responsible for the visual and interactive aspects of the application, ensuring it is user-friendly and aesthetically pleasing.
+
+<strong>Key Responsibilities</strong>:
+
+- Create wireframes, mockups, and prototypes.
+- Design the layout and visual elements of the application.
+- Ensure a consistent brand identity across the application.
+- Collaborate with frontend developers to implement designs.
+- Conduct usability testing to gather feedback and improve designs.
+
+#### QA/Testers
+
+QA/Testers ensure the quality and reliability of the application by identifying and fixing bugs before release.
+
+<strong>Key Responsibilities</strong>:
+
+- Develop and execute test plans and test cases.
+- Perform manual and automated testing.
+- Identify, document, and track bugs.
+- Verify bug fixes and perform regression testing.
+- Ensure the application meets quality standards and user requirements.
+
+#### DevOps Engineers
+
+DevOps Engineers focus on the deployment and operational aspects of the software, ensuring smooth and efficient delivery.
+
+<strong>Key Responsibilities</strong>:
+
+- Automate deployment processes.
+- Manage cloud infrastructure and server configurations.
+- Monitor application performance and uptime.
+- Implement continuous integration and continuous deployment (CI/CD) pipelines.
+- Ensure security and compliance in the production environment.
+
+#### Product Owner (PO)
+
+The Product Owner is responsible for defining the vision of the product and ensuring it meets user needs.
+
+<strong>Key Responsibilities</strong>:
+
+- Define and prioritize product features and requirements.
+- Create and manage the product backlog.
+- Act as a liaison between stakeholders and the development team.
+- Ensure the product delivers value to users and aligns with business goals.
+- Make decisions on scope and accept completed work.
+
+#### Scrum Master
+
+The Scrum Master facilitates Agile processes and helps the team follow Scrum practices.
+
+<strong>Key Responsibilities</strong>:
+
+- Organize and facilitate Scrum ceremonies (e.g., daily stand-ups, sprint planning, retrospectives).
+- Remove impediments that hinder the team’s progress.
+- Foster a collaborative and productive team environment.
+- Coach the team on Agile principles and practices.
+- Ensure continuous improvement within the team.
