@@ -4,13 +4,13 @@ A simple booking and management system using AirBnB as a case study. This system
 
 ## Project Goals
 
-At the end of this program, I will have developed adequate knowledge and skills to implement any type of system. I will:
+At the end of this program, You will have developed adequate knowledge and skills to implement any type of system. You will:
 
 - Understand the project scope.
 - Identify key features to be implemented.
 - Adhere to designated timelines and milestones.
 - Utilize the necessary tools and technologies.
-- Fulfill my roles and responsibilities within the project.
+- Fulfill your roles and responsibilities within the project.
 
 ## Tech Stack
 
@@ -161,3 +161,21 @@ The Scrum Master facilitates Agile processes and helps the team follow Scrum pra
 - Foster a collaborative and productive team environment.
 - Coach the team on Agile principles and practices.
 - Ensure continuous improvement within the team.
+
+## UI Component Patterns
+
+Components from the figma design
+
+- Navbar: The navbar component is a reusable one used in all three pages and helps the user navigate the app easily.
+
+- Category: In the homepage, there are different categories, so this will also be a reusable component.
+
+- Property Card: This component will contain the name of a property, location, utilities e.t.c of a property.
+
+- Footer
+
+- Button
+
+- Review card: User reviews component
+
+- User Input
