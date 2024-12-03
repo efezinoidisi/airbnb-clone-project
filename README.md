@@ -14,11 +14,11 @@ At the end of this program, You will have developed adequate knowledge and skill
 
 ## Tech Stack
 
-- <strong>Frontend</strong>: React with TypeScript, Next.js for server-side rendering and static site generation, TailwindCSS for styling.
+- **Frontend**: React with TypeScript, Next.js for server-side rendering and static site generation, TailwindCSS for styling.
 
-- <strong>Backend</strong>: Python, Django, and MySQL (the backend is not the primary focus).
+- **Backend**: Python, Django, and MySQL (the backend is not the primary focus).
 
-- <strong>Other Tools</strong>: Redux or Context API for state management, REST for API integration and Jest for testing.
+- **Other Tools**: Redux or Context API for state management, REST for API integration and Jest for testing.
 
 ## UI/UX Design Planning
 
@@ -30,20 +30,20 @@ The design goals for this project are as follows:
 
 The key features to be implemented include:
 
-- <strong>Property Listings</strong>: Display properties with relevant details and images.
+- **Property Listings**: Display properties with relevant details and images.
 
-- <strong>Booking System</strong>: Allow users to book properties, view booking details, and manage bookings.
+- **Booking System**: Allow users to book properties, view booking details, and manage bookings.
 
-- <strong>Search Functionality</strong>: Enable users to search for properties based on various criteria (location, price, availability).
-- <strong>User Authentication</strong>: Secure login and registration for users.
+- **Search Functionality**: Enable users to search for properties based on various criteria (location, price, availability).
+- **User Authentication**: Secure login and registration for users.
 
 ### Primary Pages
 
-| Page                    | Description                                                                                                                                                                                                                                                                           | Image                                    |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
-| <strong>Page 1</strong> | This will be the main interface of the AirBnB clone. It shows a clean and modern layout with various property listings displayed, each with a title, price and a brief description. The design focuses on user-friendly navigation and visual appeal.                                 | ![page 1 design](./designs/airbnb-1.png) |
-| <strong>Page 2</strong> | This page illustrates a detailed view of a specific property listing within the AirBnB clone. It highlights key features such as the property’s name, location, price, and additional details like amenities. The interface emphasizes clarity and ease of use for potential renters. | ![page 2 design](./designs/airbnb-2.png) |
-| <strong>Page 3</strong> | This page showcases the booking or reservation process for the selected property in the AirBnB clone. It may include options for selecting dates, the number of guests, and finalizing the booking. The design is streamlined to ensure a smooth user experience.                     | ![page 3 design](./designs/airbnb-3.png) |
+| Page       | Description                                                                                                                                                                                                                                                                           | Image                                    |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- |
+| **Page 1** | This will be the main interface of the AirBnB clone. It shows a clean and modern layout with various property listings displayed, each with a title, price and a brief description. The design focuses on user-friendly navigation and visual appeal.                                 | ![page 1 design](./designs/airbnb-1.png) |
+| **Page 2** | This page illustrates a detailed view of a specific property listing within the AirBnB clone. It highlights key features such as the property’s name, location, price, and additional details like amenities. The interface emphasizes clarity and ease of use for potential renters. | ![page 2 design](./designs/airbnb-2.png) |
+| **Page 3** | This page showcases the booking or reservation process for the selected property in the AirBnB clone. It may include options for selecting dates, the number of guests, and finalizing the booking. The design is streamlined to ensure a smooth user experience.                     | ![page 3 design](./designs/airbnb-3.png) |
 
 ### Design Properties
 
@@ -70,7 +70,7 @@ In a software development project, clearly defined roles and responsibilities ar
 
 The Project Manager is the leader of the project. They are responsible for planning, executing, and closing projects.
 
-<strong>Key Responsibilities:</strong>
+**Key Responsibilities:**
 
 - Oversee project progress and ensure milestones are met.
 - Facilitate communication within the team.
@@ -82,7 +82,7 @@ The Project Manager is the leader of the project. They are responsible for plann
 
 Frontend developers focus on the client-side of the application, ensuring a smooth and engaging user experience.
 
-<strong>Key Responsibilities:</strong>
+**Key Responsibilities:**
 
 - Implement UI/UX designs using HTML, CSS, and JavaScript.
 - Develop React components and integrate them with backend APIs.
@@ -94,7 +94,7 @@ Frontend developers focus on the client-side of the application, ensuring a smoo
 
 Backend developers work on the server-side of the application, managing data and ensuring seamless communication between the server and the frontend.
 
-<strong>Key Responsibilities</strong>:
+**Key Responsibilities**:
 
 - Develop and maintain server-side logic using languages such as Python, Node.js, or Java.
 - Design and manage databases.
@@ -106,7 +106,7 @@ Backend developers work on the server-side of the application, managing data and
 
 Designers are responsible for the visual and interactive aspects of the application, ensuring it is user-friendly and aesthetically pleasing.
 
-<strong>Key Responsibilities</strong>:
+**Key Responsibilities**:
 
 - Create wireframes, mockups, and prototypes.
 - Design the layout and visual elements of the application.
@@ -118,7 +118,7 @@ Designers are responsible for the visual and interactive aspects of the applicat
 
 QA/Testers ensure the quality and reliability of the application by identifying and fixing bugs before release.
 
-<strong>Key Responsibilities</strong>:
+**Key Responsibilities**:
 
 - Develop and execute test plans and test cases.
 - Perform manual and automated testing.
@@ -130,7 +130,7 @@ QA/Testers ensure the quality and reliability of the application by identifying 
 
 DevOps Engineers focus on the deployment and operational aspects of the software, ensuring smooth and efficient delivery.
 
-<strong>Key Responsibilities</strong>:
+**Key Responsibilities**:
 
 - Automate deployment processes.
 - Manage cloud infrastructure and server configurations.
@@ -142,7 +142,7 @@ DevOps Engineers focus on the deployment and operational aspects of the software
 
 The Product Owner is responsible for defining the vision of the product and ensuring it meets user needs.
 
-<strong>Key Responsibilities</strong>:
+**Key Responsibilities**:
 
 - Define and prioritize product features and requirements.
 - Create and manage the product backlog.
@@ -154,7 +154,7 @@ The Product Owner is responsible for defining the vision of the product and ensu
 
 The Scrum Master facilitates Agile processes and helps the team follow Scrum practices.
 
-<strong>Key Responsibilities</strong>:
+**Key Responsibilities**:
 
 - Organize and facilitate Scrum ceremonies (e.g., daily stand-ups, sprint planning, retrospectives).
 - Remove impediments that hinder the team’s progress.
